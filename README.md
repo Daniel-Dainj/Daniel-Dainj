@@ -1,10 +1,10 @@
 ## 👋🏻 Hi there, my No.![visitor count](https://profile-counter.glitch.me/Daniel-Dainj/count.svg) visitor!
 
-- 🔭 I’m a graduate student majoring in **Electronic Information** in the 8th [FC of GZHU](https://wyy.gzhu.edu.cn/) .
+- 🔭 I’m a graduate student majoring in **Electronic Information** in the 8th [FC of GZHU](https://wyy.gzhu.edu.cn/)
 
-- 🌱 My current research focuses on ✨[**Trustworthy AI**](https://wikipedia.org/wiki/Trustworthy_AI)✨ .
+- 🌱 My current research focuses on ✨[**Trustworthy AI**](https://wikipedia.org/wiki/Trustworthy_AI)✨
 
-- 📫 How to reach me: [dainj2003@gmail.com](mailto:dainj2003@gmail.com) .
+- 📫 How to reach me: [dainj2003@gmail.com](mailto:dainj2003@gmail.com)
 
 I'm looking forward to making friends with you! 🤟🏻
 

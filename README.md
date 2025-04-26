@@ -12,6 +12,7 @@ I'm looking forward to making friends with you! 🤟🏻
   <img src="https://github-readme-stats.vercel.app/api?username=Daniel-Dainj&show_icons=true&theme=tokyonight&count_private=true" weigh="50%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Dainj&theme=tokyonight&layout=compact" weigh="50%"/>
 </div>
+<br>
 
 > ! Waiting for Updates...
 

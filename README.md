@@ -1,13 +1,17 @@
 ## 👋🏻 Hi there, my No.![visitor count](https://profile-counter.glitch.me/Daniel-Dainj/count.svg) visitor!
 
 - 🔭 I’m a graduate student majoring in **Electronic Information** in the 8th [FC of GZHU](https://wyy.gzhu.edu.cn/).
+
 - 🌱 My current research focuses on ✨[**Trustworthy AI**](https://wikipedia.org/wiki/Trustworthy_AI)✨.
+
 - 📫 How to reach me: [dainj2003@gmail.com](mailto:dainj2003@gmail.com)
 
+
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Daniel-Dainj&show_icons=true&theme=tokyonight&count_private=true" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Dainj&theme=tokyonight&layout=compact" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniel-Dainj&show_icons=true&theme=tokyonight&count_private=true" weigh="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Dainj&theme=tokyonight&layout=compact" weigh="50%"/>
 </div>
+
 
 > ! Waiting for Updates...
 
